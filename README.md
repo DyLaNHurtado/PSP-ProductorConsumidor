@@ -2,7 +2,7 @@
 
 ## Productor - Consumidor
 ### Descripción 📝 :
-Ejemplo del patron clasico del Productor-Consumidor con hilos y monitor Java 11<br />
+Patron clasico del Productor-Consumidor con hilos y monitor Java 11<br />
 
 #### Enunciado:<br />
 
